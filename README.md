@@ -8,7 +8,7 @@ The molecular biology and altered transcriptional activity in endometrial cancer
 ChIP-seq, RNA-seq, western blotting, other standard molecular biology techniques.
 
 # Protocols
-[Luciferase Assay Protocol](/protocols/LuciferaseAssay.md)
+[Luciferase Assay Protocol](protocols/LuciferaseReporter.md) 
 
 # Contact Info
 blah@blah.edu
